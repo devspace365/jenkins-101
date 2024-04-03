@@ -1,6 +1,6 @@
 # jenkins-101
 ## Easy jenkins installation on docker
-...
+You must have docker install on the host computer.
 
 
 ## Installation
