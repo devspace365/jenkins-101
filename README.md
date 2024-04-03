@@ -1,15 +1,16 @@
 # jenkins-101
 ## Easy jenkins installation on docker
+...
 
 
-# Installation
-## Pull the latest jenkins built from the docker hub
+## Installation
+### Pull the latest jenkins built from the docker hub
 ```
 docker pull jenkins/jenkins
 
 ```
 
-## Create the network 'jenkins'
+### Create the network 'jenkins'
 ```
 docker network create jenkins
 ```
